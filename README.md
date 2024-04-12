@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OGpluto
+- 👋 Hi, I’m 042megatron
 - 👀 I’m interested in learning and gaining more knowledge. 
-- 🌱 I am currently learning HTML, CSS, and Python. Although I am interested in Javascript, I am taking it one step at a time...
+- 🌱 I am currently learning HTML, CSS, and Javascript. I am taking it one step at a time...
 - 💞️ I’m looking to collaborate on projects involving HTML, CSS, and Python.  
 - 📫 You can link up with me on Instagram @iam_prospa
 - 😄 Pronouns: He
